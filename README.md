@@ -1,1 +1,1 @@
-
+Successfully completed a job simulation for Accenture's North America Data Analytics and Visualization role on Forage in April 2024. Engaged in advising a hypothetical social media client as a Data Analyst, involving cleaning, modeling, and analyzing 7 datasets to reveal insights into content trends for strategic decision-making. Developed a PowerPoint deck and video presentation to effectively communicate key findings to the client and internal stakeholders.
